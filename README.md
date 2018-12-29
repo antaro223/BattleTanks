@@ -7,4 +7,6 @@ An open world tank game with simple AI, terrain and advanced control systems in 
 * BT105 - Battle Tank Overview
 * BT106 - Game Design Document(GDD)
 * BT107 - Setting Up a GitHub "Repo"
+* BT108 - Creating & Deleting Landscapes
+
 
