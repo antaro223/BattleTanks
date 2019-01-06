@@ -16,4 +16,5 @@ An open world tank game with simple AI, terrain and advanced control systems in 
 * BT114 - More Landscaping Tools
 * BT115 - Tank Control System
 * BT116 - Actors from Multiple Meshes
+* BT117 - Improved Models
 
