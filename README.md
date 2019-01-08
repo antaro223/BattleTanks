@@ -22,6 +22,7 @@ An open world tank game with simple AI, terrain and advanced control systems in 
 * BT120 - Fixing 3rd Person Rotation
 * BT121 - User Interface (UI) in Unreal
 * BT122 - Main Menu Screens
+* BT123 - UI Scale Box, Buttons & Mouse
 
 
 
