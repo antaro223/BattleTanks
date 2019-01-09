@@ -3,26 +3,27 @@
 An open world tank game with simple AI, terrain and advanced control systems in Unreal 4
 
 ## Lecture List
-* BT104 - Intro, Notes & Section 4 Assets
-* BT105 - Battle Tank Overview
-* BT106 - Game Design Document(GDD)
-* BT107 - Setting Up a GitHub "Repo"
-* BT108 - Creating & Deleting Landscapes
-* BT109 - Landscape Setup & Scaling
-* BT110 - A Landscaping Process
-* BT111 - Upgrading Engine Version
-* BT112	- Using Landscape Layers
-* BT113 - Flat Shading Low Poly Landscapes
-* BT114 - More Landscaping Tools
-* BT115 - Tank Control System
-* BT116 - Actors from Multiple Meshes
-* BT117 - Improved Models
-* BT118 - Configuring a Tank
-* BT119 - 3rd Person Camera Control
-* BT120 - Fixing 3rd Person Rotation
-* BT121 - User Interface (UI) in Unreal
-* BT122 - Main Menu Screens
-* BT123 - UI Scale Box, Buttons & Mouse
+* BT105 - Intro, Notes & Section 4 Assets
+* BT106 - Battle Tank Overview
+* BT107 - Game Design Document(GDD)
+* BT108 - Setting Up a GitHub "Repo"
+* BT109 - Creating & Deleting Landscapes
+* BT110 - Landscape Setup & Scaling
+* BT111 - A Landscaping Process
+* BT112 - Upgrading Engine Version
+* BT113	- Using Landscape Layers
+* BT114 - Flat Shading Low Poly Landscapes
+* BT115 - More Landscaping Tools
+* BT116 - Tank Control System
+* BT117 - Actors from Multiple Meshes
+* BT118 - Improved Models
+* BT119 - Configuring a Tank
+* BT120 - 3rd Person Camera Control
+* BT121 - Fixing 3rd Person Rotation
+* BT122 - User Interface (UI) in Unreal
+* BT123 - Main Menu Screens
+* BT124 - UI Scale Box, Buttons & Mouse
+* BT125 - Controller Ready Navigation
 
 
 
