@@ -26,6 +26,7 @@ An open world tank game with simple AI, terrain and advanced control systems in 
 * BT125 - Controller Ready Navigation
 * BT126 - Creating Unreal Engine UI with UMG and C++
 * BT127 - Trial Packaging Your Game
+* BT128 - Delegating to Components
 
 
 
