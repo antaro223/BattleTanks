@@ -32,5 +32,6 @@ An open world tank game with simple AI, terrain and advanced control systems in 
 * BT131 - Virtual Functions and Vtables
 * BT132 - Creating an AI Controller Class
 * BT133 - Get the Player Controller with C++
+* BT134 - Add Tick() to PlayerController
 
 
