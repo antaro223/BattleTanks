@@ -1,4 +1,4 @@
-# Battle Tanks
+ # Battle Tanks
 
 An open world tank game with simple AI, terrain and advanced control systems in Unreal 4
 
@@ -29,5 +29,6 @@ An open world tank game with simple AI, terrain and advanced control systems in 
 * BT128 - Delegating to Components
 * BT129 - Using virtual and override
 * BT130 - Overloading and Polymorphism
+* BT131 - Virtual Functions and Vtables
 
 
