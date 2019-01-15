@@ -34,5 +34,6 @@ An open world tank game with simple AI, terrain and advanced control systems in 
 * BT133 - Get the Player Controller with C++
 * BT134 - Add Tick() to PlayerController
 * BT135 - Creating an Out Parameter Method
+* BT136 - Finding Screen Pixel Coordinates
 
 
