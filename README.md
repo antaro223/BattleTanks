@@ -35,5 +35,6 @@ An open world tank game with simple AI, terrain and advanced control systems in 
 * BT134 - Add Tick() to PlayerController
 * BT135 - Creating an Out Parameter Method
 * BT136 - Finding Screen Pixel Coordinates
+* BT137 - Using DeprojectScreenToWorld
 
 
