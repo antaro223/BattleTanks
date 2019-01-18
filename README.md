@@ -36,5 +36,7 @@ An open world tank game with simple AI, terrain and advanced control systems in 
 * BT135 - Creating an Out Parameter Method
 * BT136 - Finding Screen Pixel Coordinates
 * BT137 - Using DeprojectScreenToWorld
+* BT138 - Using LineTraceSingleByChannel()
+
 
 
