@@ -40,6 +40,7 @@ An open world tank game with simple AI, terrain and advanced control systems in 
 * BT139 - Unify Player & AI Aiming
 * BT140 - Create Default Sub Objects in C++
 * BT141 - BlueprintCallable()
+* BT142 - SuggestProjectileVelocity()
 
 
 
