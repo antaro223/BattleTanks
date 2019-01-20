@@ -43,6 +43,8 @@ An open world tank game with simple AI, terrain and advanced control systems in 
 * BT142 - SuggestProjectileVelocity()
 * BT143 - Predict Projectile Landing Point
 * BT144 - Using FRotators in Unreal
+* BT145 - The C++ Compilation Process
+* BT146 - Using Forward Declarations
 
 
 
