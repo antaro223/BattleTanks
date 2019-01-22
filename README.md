@@ -49,5 +49,6 @@ An open world tank game with simple AI, terrain and advanced control systems in 
 * BT148 - Review Our Execution Flow
 * BT149 - How to Report Bugs
 * BT150 - Using Clamp() to Limit Values
+* BT151 - CHALLENGE - Turret Rotation
 
 
