@@ -52,5 +52,10 @@ An open world tank game with simple AI, terrain and advanced control systems in 
 * BT151 - CHALLENGE - Turret Rotation
 * BT152 - CHALLENGE - Turret Rotation Pt.2
 * BT153 - Setting Up Projectiles
+* BT154 - Upgrading to Unreal 4.12
+* BT155 - A Not About The Movement Bug
+* BT156 - Working Round Awkward Bugs
+
+
 
 
